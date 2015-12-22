@@ -1,2 +1,2 @@
-# PracticalML_Coursera
-Programming Assignment
+# MachineLearning
+Coursera Machine Learning Assignment
